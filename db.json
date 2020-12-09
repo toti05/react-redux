@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Anana",
+      "precio": "700",
+      "id": 2
+    },
+    {
+      "nombre": "zanahorias",
+      "precio": 123,
+      "id": 4
+    },
+    {
+      "nombre": "Pastelitos",
+      "precio": 170,
+      "id": 5
+    },
+    {
+      "nombre": "costilla",
+      "precio": 380,
+      "id": 6
+    }
+  ]
+}
