@@ -1,3 +1,13 @@
+![crudredux](https://user-images.githubusercontent.com/60388264/101826846-506f8980-3b0e-11eb-9f94-79b45abca879.png)
+
+![crudredux1](https://user-images.githubusercontent.com/60388264/101826852-52d1e380-3b0e-11eb-95c0-0ca2a7ce00b8.png)
+
+![crudredux2](https://user-images.githubusercontent.com/60388264/101826856-536a7a00-3b0e-11eb-9584-2a50fac64559.png)
+
+![crudredux3](https://user-images.githubusercontent.com/60388264/101826861-54031080-3b0e-11eb-9754-6f9291240c3d.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
